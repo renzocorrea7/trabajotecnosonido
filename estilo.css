@@ -1,0 +1,82 @@
+body{
+    color: black;
+    font-family: 'montserrat';
+   }
+#parrafo{
+    font-family: myriad pro;
+}
+
+#titulo{
+    font-family: sans-serif;
+    color: black;
+    font-size: larger;
+    text-align: center;
+}    
+.titulo1{
+    font-size: larger; 
+    font-family: Montserrat;
+    border: 0px blue solid;
+}
+
+.desplegable{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.contacto
+{
+    padding: 8px;
+}
+
+.parrafo{
+    font-size: 30px;
+    margin: 30px;
+    text-align: justify;
+}
+
+.imagen{
+    width: 400px; margin: 10px;
+}
+.fotografias{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#fotos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulovideo{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+#video{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#audio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column
+}
+
+#parrafo2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 20px;
+    margin: 30px
+}
+
+
